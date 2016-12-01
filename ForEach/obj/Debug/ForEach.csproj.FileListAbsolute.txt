@@ -1,0 +1,5 @@
+c:\users\fsociety91\documents\visual studio 2012\Projects\ForEach\ForEach\bin\Debug\ForEach.exe.config
+c:\users\fsociety91\documents\visual studio 2012\Projects\ForEach\ForEach\bin\Debug\ForEach.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\ForEach\ForEach\bin\Debug\ForEach.pdb
+c:\users\fsociety91\documents\visual studio 2012\Projects\ForEach\ForEach\obj\Debug\ForEach.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\ForEach\ForEach\obj\Debug\ForEach.pdb
